@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1681266459 source:c:\users\wildlzx\desktop\编译原理\实验2\lab2\main.cpp
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+
+1684294589 source:c:\users\wildlzx\desktop\编译原理\编译原理实验2-20231045李子翔\shiyan2\main.cpp
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+

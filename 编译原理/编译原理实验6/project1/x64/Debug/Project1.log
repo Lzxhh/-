@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\Wildlzx\Desktop\最优化\main.cpp(531,33): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Wildlzx\Desktop\最优化\main.cpp(647,26): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  scanner.cpp
+C:\Users\Wildlzx\Desktop\最优化\scanner.cpp(272,32): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Wildlzx\Desktop\最优化\scanner.cpp(283,30): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Wildlzx\Desktop\最优化\scanner.cpp(615,26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Wildlzx\Desktop\最优化\scanner.cpp(616,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  Project1.vcxproj -> C:\Users\Wildlzx\Desktop\最优化\x64\Debug\Project1.exe
